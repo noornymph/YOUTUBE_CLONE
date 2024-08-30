@@ -6,8 +6,6 @@
 - on typing in search bar, fetch serach results(debounced)
 - on clicking any video, fetch video by id and render it.
   
-## Demo at 
-https://drive.google.com/file/d/1l6oImLRox0qnincQuHZFJp7S8xBU85Tu/view?usp=sharing
 
 ## Deployed at 
 https://storied-bavarois-cdc084.netlify.app/
