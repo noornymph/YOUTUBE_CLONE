@@ -7,8 +7,6 @@
 - on clicking any video, fetch video by id and render it.
   
 
-## Deployed at 
-https://storied-bavarois-cdc084.netlify.app/
 
 ## Api link 
 https://developers.google.com/youtube/v3
